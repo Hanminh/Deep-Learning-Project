@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+SentimentAnalysis/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
